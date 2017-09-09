@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: 87933e0aabcda43b586a046a65c6b258
+timeCreated: 1453648806
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_0
+    21300002: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_1
+    21300004: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_2
+    21300006: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_3
+    21300008: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_4
+    21300010: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_5
+    21300012: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_6
+    21300014: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_7
+    21300016: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_8
+    21300018: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_9
+    21300020: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_10
+    21300022: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_11
+    21300024: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_12
+    21300026: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_13
+    21300028: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_14
+    21300030: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 11}
+        - {x: -16, y: 2}
+        - {x: -16, y: -22}
+        - {x: -9, y: -32}
+        - {x: 8, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 5}
+        - {x: 14, y: 11}
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 9}
+        - {x: -16, y: 4}
+        - {x: -16, y: -26}
+        - {x: -8, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -25}
+        - {x: 16, y: 8}
+        - {x: 14, y: 9}
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 11}
+        - {x: -16, y: 2}
+        - {x: -16, y: -22}
+        - {x: -9, y: -32}
+        - {x: 8, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 5}
+        - {x: 14, y: 11}
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -16, y: 3}
+        - {x: -16, y: -24}
+        - {x: -6, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -26}
+        - {x: 16, y: -2}
+        - {x: 11, y: 9}
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 10}
+        - {x: -18, y: 4}
+        - {x: -18, y: -9}
+        - {x: -13, y: -25}
+        - {x: -7, y: -32}
+        - {x: 2, y: -32}
+        - {x: 15, y: -21}
+        - {x: 15, y: 8}
+        - {x: 10, y: 10}
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -18, y: 2}
+        - {x: -18, y: -15}
+        - {x: -14, y: -31}
+        - {x: -9, y: -32}
+        - {x: 10, y: -32}
+        - {x: 17, y: -23}
+        - {x: 17, y: 5}
+        - {x: 10, y: 8}
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 10}
+        - {x: -18, y: 4}
+        - {x: -18, y: -9}
+        - {x: -13, y: -25}
+        - {x: -7, y: -32}
+        - {x: 2, y: -32}
+        - {x: 15, y: -21}
+        - {x: 15, y: 8}
+        - {x: 10, y: 10}
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 8}
+        - {x: -18, y: 7}
+        - {x: -18, y: -20}
+        - {x: -13, y: -32}
+        - {x: 9, y: -32}
+        - {x: 17, y: -22}
+        - {x: 17, y: 5}
+        - {x: 10, y: 8}
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 10}
+        - {x: -15, y: 3}
+        - {x: -15, y: -22}
+        - {x: -6, y: -32}
+        - {x: 5, y: -32}
+        - {x: 13, y: -26}
+        - {x: 18, y: -14}
+        - {x: 18, y: 0}
+        - {x: 12, y: 10}
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 8}
+        - {x: -17, y: 4}
+        - {x: -17, y: -32}
+        - {x: 13, y: -32}
+        - {x: 18, y: -20}
+        - {x: 18, y: -2}
+        - {x: 9, y: 8}
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 10}
+        - {x: -15, y: 3}
+        - {x: -15, y: -22}
+        - {x: -6, y: -32}
+        - {x: 5, y: -32}
+        - {x: 13, y: -26}
+        - {x: 18, y: -14}
+        - {x: 18, y: 0}
+        - {x: 12, y: 10}
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 8}
+        - {x: -9, y: 8}
+        - {x: -15, y: 1}
+        - {x: -17, y: -14}
+        - {x: -17, y: -22}
+        - {x: -10, y: -29}
+        - {x: -6, y: -32}
+        - {x: 8, y: -32}
+        - {x: 14, y: -30}
+        - {x: 18, y: -7}
+        - {x: 18, y: -1}
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 10}
+        - {x: -15, y: 10}
+        - {x: -16, y: 7}
+        - {x: -16, y: -29}
+        - {x: -8, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 1}
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -29}
+        - {x: -12, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -27}
+        - {x: 16, y: -1}
+        - {x: 11, y: 8}
+        - {x: -9, y: 8}
+        - {x: -16, y: 2}
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 10}
+        - {x: -15, y: 10}
+        - {x: -16, y: 7}
+        - {x: -16, y: -29}
+        - {x: -8, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 1}
+    - name: pokemon_character_1x1_rmxp_by_yourii54-d4st4wk_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -16, y: 5}
+        - {x: -16, y: -27}
+        - {x: -15, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 7}
+        - {x: 11, y: 8}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
